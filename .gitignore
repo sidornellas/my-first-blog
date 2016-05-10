@@ -4,3 +4,6 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+/blog
+/simplemooc/db.sqlite3
+/simplemooc/simplemoc/core/static
